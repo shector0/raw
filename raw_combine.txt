@@ -1,0 +1,1 @@
+FOR /F "tokens=*" %i IN (list.txt) DO copy /B %i raw.mp3
